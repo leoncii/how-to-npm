@@ -6,12 +6,17 @@
     "test": "node test.js"
   },
   "repository": {
-    "url": "https://github.com/leoncii/how-to-npm.git"
+    "type": "git",
+    "url": "git+https://github.com/leoncii/how-to-npm"
   },
   "author": "letobev",
-  "license": "ISC",
-  "description": "",
+  "license": "MIT",
+  "description": "Removes all spaces",
   "dependencies": {
     "@linclark/pkg": "^1.0.3"
-  }
+  },
+  "keywords": [
+    "how-to-npm",
+    "package"
+  ]
 }

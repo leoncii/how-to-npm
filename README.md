@@ -29,3 +29,8 @@ Please make sure to update tests as appropriate.
 [pip](https://github.com/leoncii/how-to-npm.git)
 ## License
 [MIT](https://google.com)
+
+## Links
+[a link](https://github.com/leoncii/how-to-npm/blob/master/README.md)
+
+[a relative link](https://github.com/leoncii/how-to-npm/blob/master/README.md)
